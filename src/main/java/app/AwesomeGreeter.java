@@ -5,6 +5,6 @@ public class AwesomeGreeter {
         System.out.println("Hi hi");
     }
     public static void gutentag(){
-        System.out.println("Guten Tag");
+        System.out.println("Guten Tag 3");
     }
 }
